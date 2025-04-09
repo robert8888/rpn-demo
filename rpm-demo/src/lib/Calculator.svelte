@@ -1,9 +1,9 @@
 <script>
   import ActionButton from "./ActionButton.svelte"
-  import Rpn from "rpn-ts";
-
+  import Rpn from 'rpn-ts';
 
   const rpn = new Rpn();
+
   let input;
   let value = null;
   let errors = [];

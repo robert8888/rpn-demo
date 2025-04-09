@@ -6,7 +6,7 @@
 <main>
   <div class="rpn">
     <div class="rpn_container">
-      <img class="rpn_logo" src="/log.png" alt="rpn-logo" />
+      <img class="rpn_logo" src="/rpn-demo/logo.png" alt="rpn-logo" />
     </div>
     <Calculator/>
   </div>
